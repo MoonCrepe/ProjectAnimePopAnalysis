@@ -6,7 +6,7 @@ This project analyzes trends determining anime popularity using the MyAnimeList 
 Dataset itself should be attached in file along with document with link to video and github.
 
 ## Files
-- `anime_popularity_analysis.py` — main analysis script
+- `anime_popularity_analysis.py` —> main analysis script with entire python code
 - `popular_anime.csv` —> dataset from MyAnimeList found through Kaggle
 
 ## How to Run
