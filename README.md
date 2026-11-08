@@ -2,8 +2,8 @@
 **CS 210 — Data Management for Data Science | Rutgers University | Spring 2026**
 
 ## Overview
-This project analyzes trends determining anime popularity using the MyAnimeList dataset (28,825 entries) found through Kaggle.
-Dataset itself should be attached in file along with document with link to video and github.
+This project analyzes trends determining anime popularity using the MyAnimeList dataset (28,825 entries) found through Kaggle. 
+Built in Python with Pandas and Matplotlib: cleaned the data (type conversion, null handling, regex-based duration parsing), ran correlation analysis, and produced 14 visualizations.
 
 ## Files
 - `anime_popularity_analysis.py` —> main analysis script with entire python code
